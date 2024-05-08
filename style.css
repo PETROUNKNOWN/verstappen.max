@@ -31,7 +31,7 @@ body {
   transform: rotate(90deg);
   font-family: Bungee Inline;
   position: fixed;
-  top: 4rem;
+  top: 8rem;
   left: -8rem;
   color: var(--red);
   z-index: -2;
@@ -43,7 +43,7 @@ body {
   font-family: Bungee Inline;
   position: fixed;
   top: 15rem;
-  left: -1.3rem;
+  left: -0.3rem;
   color: var(--green);
   z-index: -1;
 }
@@ -87,9 +87,9 @@ body {
 }
 
 .wow {
-  border: #00ffbf 1px solid;
-  height: 1rem;
-  width: 1rem;
+  border: black 1px solid;
+  height: 2rem;
+  width: 2rem;
 }
 
 /* background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0));  */
