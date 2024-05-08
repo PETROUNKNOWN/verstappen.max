@@ -26,24 +26,24 @@ body {
 } 
 
 .nameText .firstName {
-  font-size: 150px;
+  font-size: 9rem;
   transform: rotate(90deg);
   font-family: Bungee Inline;
   position: fixed;
-  top: 1rem;
+  top: 3rem;
   left: -8rem;
   color: var(--red);
-  z-index: -1;
+  z-index: -2;
 }
 
 .nameText .secondName {
-  font-size: 10px;
+  font-size: 1rem;
   transform: rotate(90deg);
   font-family: Bungee Inline;
   position: fixed;
   top: 20rem;
   left: -1.3rem;
-  color: var(--red);
+  color: var(--green);
   z-index: -1;
 }
 
