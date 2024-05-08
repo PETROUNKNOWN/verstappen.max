@@ -40,8 +40,8 @@ body {
   transform: rotate(90deg);
   font-family: Bungee Inline;
   position: fixed;
-  top: 26rem;
-  left: -2.3rem;
+  top: 20rem;
+  left: -1.3rem;
   color: var(--red);
   z-index: -1;
 }
